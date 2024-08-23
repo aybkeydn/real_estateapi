@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RealEstate_Dapper_Api",
+    "\\RealEstate_Dapper_Api\\Dtos",
+    "\\RealEstate_Dapper_Api\\Repositories",
+    "\\RealEstate_Dapper_Api\\Repositories\\ServiceRepository",
+    "\\RealEstate_Dapper_UI",
+    "\\RealEstate_Dapper_UI\\Views",
+    "\\RealEstate_Dapper_UI\\Views\\Default"
+  ],
+  "SelectedNode": "\\RealEstate_Dapper_Api\\Repositories\\ServiceRepository\\ServiceRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
