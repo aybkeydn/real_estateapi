@@ -46,17 +46,6 @@ real_estate/
 ## 🏗 Geliştirme Süreci
 Bu proje, **Murat Yücedağ'ın "Real Estate - ASP.NET Core 8.0 + API + Dapper"** eğitim serisini takip ederek oluşturulmuştur.
 
-## 📌 Katkıda Bulunma
-Projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
-1. Bu repoyu fork'layın.
-2. Yeni bir branch oluşturun: `git checkout -b yeni-ozellik`.
-3. Değişikliklerinizi yapıp commit edin: `git commit -m 'Yeni özellik eklendi'`.
-4. Değişiklikleri push edin: `git push origin yeni-ozellik`.
-5. Bir **Pull Request** oluşturun!
-
-## 📞 İletişim
-Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz:
-- 🔗 GitHub: [github.com/aybkeydn](https://github.com/aybkeydn)
 
 
 
